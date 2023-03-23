@@ -1,5 +1,5 @@
 # ucak
-package Pratikler;
+
 
 import java.util.Scanner;
 
